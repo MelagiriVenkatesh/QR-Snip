@@ -19,15 +19,15 @@ Lightweight: Super fast and won't slow down your browser.
 ## Installation
 Since this extension is not on the Chrome Web Store, you can install it manually in a few easy steps.
 
-Step 1: Download the latest release by clicking the green "< > Code" button on this page and selecting "Download ZIP".
+**Step 1**: Download the latest release by clicking the green "< > Code" button on this page and selecting "Download ZIP".
 
-Step 2: Unzip the downloaded file. You should now have a folder named something like qr-scanner-extension.
+**Step 2**: Unzip the downloaded file. You should now have a folder named something like qr-scanner-extension.
 
-Step 3: Open Chrome and navigate to chrome://extensions.
+**Step 3**: Open Chrome and navigate to chrome://extensions.
 
-Step 4: In the top right corner, turn on the "Developer mode" toggle.
+**Step 4**: In the top right corner, turn on the "Developer mode" toggle.
 
-Step 5: Click the "Load unpacked" button and select the unzipped folder from Step 2.
+**Step 5**: Click the "Load unpacked" button and select the unzipped folder from Step 2.
 
 The extension is now installed and ready to use! 👍
 
